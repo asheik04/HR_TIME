@@ -1,0 +1,9 @@
+[project]
+name = "hr-spica"
+version = "0.1.0"
+description = "HR Attendance (Biometrics) Data"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pydantic-settings>=2.6.1",
+]
